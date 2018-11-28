@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{64E8AB34-74F1-6945-1BB4-4C1B1F0235C6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WeaponController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bolt.cs" Line="73" Column="15" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="104" Column="6" />
+      <File FileName="Assets/Scripts/Stage1/Stage1.cs" Line="23" Column="35" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="119" Column="24" />
+      <File FileName="Assets/Scripts/Grenade.cs" Line="114" Column="8" />
+      <File FileName="Assets/Scripts/StageSelect/StageSelector.cs" Line="29" Column="48" />
+      <File FileName="Assets/Scripts/PlayerPrefs/Parameter.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/PlayerPrefs/SeeParameter.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/StageSelect/ImageManager.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/Title/CursorController.cs" Line="43" Column="44" />
+      <File FileName="Assets/Scripts/Title/TitleManager.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/City1/City1.cs" Line="93" Column="66" />
+      <File FileName="Assets/Scripts/Treasure.cs" Line="50" Column="14" />
+      <File FileName="Assets/Scripts/BattleMusic.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BGScroller.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChildBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChildrenShot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DamageUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestroyByBoundary.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestroyByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestroyByTime.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyBolt.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Maneuver.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RondamRotator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WeaponController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
